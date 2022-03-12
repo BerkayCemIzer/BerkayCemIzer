@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript, React.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript**
 
 - 📫 How to reach me **izerberkay20@gmail.com**
 
