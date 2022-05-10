@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, React.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React.js**
 
 - 📫 How to reach me **izerberkay20@gmail.com**
 
