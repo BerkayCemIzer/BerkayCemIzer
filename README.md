@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying on [Patika - Bootcamp Accelerator Program](https://www.patika.dev/)
 
-- 🌱 I’m currently learning **Javascript, React.**
+- 🌱 I’m currently learning **React.js**.
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React.js**
 
