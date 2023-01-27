@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkaycemizer" alt="berkaycemizer" /></a> </p>
 
-- 🔭 I’m currently studying on [Patika - Bootcamp Accelerator Program](https://www.patika.dev/)
+- 🌱 I’m currently improving myself at **React.js**.
 
-- 🌱 I’m currently learning **React.js**.
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React.js**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, React.js, Material UI**
 
 - 📫 How to reach me **izerberkay20@gmail.com**
 
