@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkaycemizer" alt="berkaycemizer" /></a> </p>
 
-- I’m currently improving myself at **Laravel && React Native.**
+- I’m currently improving myself at **Laravel && React.**
 
 - 💬 Ask me about **Laravel, HTML, CSS, Bootstrap, Javascript, React.js, Material UI, React Native**
 
