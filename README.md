@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Berkay Cem Izer</h1>
+<h1 align="center">Hi 👋, I'm Berkay Cem Izer</h1>
 <h3 align="center">Web Developer | React && Laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaycemizer&label=Profile%20views&color=0e75b6&style=flat" alt="berkaycemizer" /> </p>
